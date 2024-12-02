@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Shaifta/Shaifta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Samir Ahmed Shaifta from Afghanistan.
+I'm an aspiring Data Scientist with a background in Medical science and a passion for exploring diverse cuisines.currently, I'm studying Surgical Assitance and translating Persian to English/French for the UNHCR.
+### Skills
+AI and Data Analysis
+Project Development
+Problem solving
+**Languages**:
+-  Persian, English, French, Pashto, Arabic
+- Tools: Git, Jupyter Notebook
+  ### Contact Me
+  **Email Address**:
+  sshaifta@yahoo.com
+  sshaifta72@gmail.com
+**Twitter**:
+   (https://x.com/ShaiftaSamir?t=N6FOm_g1Ve5ByXNKMPYULw&s=
