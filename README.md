@@ -10,7 +10,7 @@ in Medical Science and a passion for exploring diverse cuisines.
 - Data Analyst
    Ask me about *Cooking, Medical Instrument*.
    <!-- Intentionally using a bare URL for simplicity and clarity -->
-- 📫 How to reach me: *sshaifta72@gmail.com*.
+- 📫 How to reach me: *<sshaifta72@gmail.com>*
 
 ---
 
