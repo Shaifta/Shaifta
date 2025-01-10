@@ -14,6 +14,19 @@ in Medical Science and a passion for exploring diverse cuisines.
 
 ---
 
+## Programming Journey
+
+Transitioning from a career as a surgical assistant, I've discovered a
+deep fascination for the analytical and problem-solving aspects
+ of programming. My background in the medical field has honed
+  my attention to detail and critical thinking,
+  skills that seamlessly translate into coding. Currently,
+  I'm focusing on mastering Python, tackling various projects,
+   and enriching my knowledge through specialized courses.
+   My goal is to harness the power of programming and
+   data science to innovate solutions in healthcare and beyond,
+   bridging the gap between medical expertise and technology.
+
 ## ⚙️ Technologies & Tools
 
 - 💻 **Languages**: Python
